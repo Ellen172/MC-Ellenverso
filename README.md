@@ -1,3 +1,3 @@
-# MC-Html-Prova2
-https://github.com/Ellen172/MC-Html-Prova2.git <br>
-<p>Esse site foi desenvolvido como prova para o modulo de html, testando principalmente a criatividade.</p>
+# Prova 2 - Html
+<p>Site desenvolvido para testar os conhecimentos em html e, principalmente, a criatividade.</p>
+<p>Criei um site sobre diversas versões de mim espalhadas pelo multiverso, utilizando caracteristicas reais minhas.</p>
